@@ -1,0 +1,1156 @@
+{
+  "metadata": {
+    "source": "Paris Cinema Club PDFs",
+    "fetched_at": "2025-08-01T04:14:40.284709",
+    "pdf_files": [
+      "semainier_christine.pdf",
+      "semainier_ecoles.pdf"
+    ]
+  },
+  "dates": {
+    "2025-07-30": {
+      "date": "2025-07-30",
+      "day_name": "Wednesday",
+      "cinemas": {
+        "Christine": {
+          "name": "Christine",
+          "films": [
+            {
+              "title": "Les Parapluies de Cherbourg",
+              "showtime": "13h30",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Les Parapluies de Cherbourg Cannes Fever"
+            },
+            {
+              "title": "Citizen Kane Toujours à l’affiche",
+              "showtime": "14h00",
+              "duration": null,
+              "director": null,
+              "category": null,
+              "additional_info": "Citizen Kane Toujours à l’affiche"
+            },
+            {
+              "title": "Stella Dallas",
+              "showtime": "15h15",
+              "duration": null,
+              "director": null,
+              "category": "SORTIE NATIONALE",
+              "additional_info": "Stella Dallas SORTIE NATIONALE"
+            },
+            {
+              "title": "Le Mépris",
+              "showtime": "16h10",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Le Mépris Summer of Love"
+            },
+            {
+              "title": "Drive",
+              "showtime": "17h10",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Drive Cannes Fever"
+            },
+            {
+              "title": "Rushmore",
+              "showtime": "18h05",
+              "duration": null,
+              "director": "Wes Anderson",
+              "category": null,
+              "additional_info": "Rushmore Wes Anderson"
+            },
+            {
+              "title": "Mademoiselle",
+              "showtime": "19h00",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Mademoiselle Cannes Fever"
+            },
+            {
+              "title": "Blue Velvet",
+              "showtime": "19h50",
+              "duration": null,
+              "director": "David Lynch",
+              "category": null,
+              "additional_info": "Blue Velvet David Lynch"
+            },
+            {
+              "title": "Le Silence des agneaux",
+              "showtime": "21h45",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Le Silence des agneaux Cannes Fever"
+            },
+            {
+              "title": "Nos années sauvages",
+              "showtime": "22h00",
+              "duration": null,
+              "director": "Wong Kar-wai",
+              "category": null,
+              "additional_info": "Nos années sauvages Wong Kar-wai"
+            }
+          ]
+        },
+        "Ecoles": {
+          "name": "Ecoles",
+          "films": [
+            {
+              "title": "Certains l’aiment chaud",
+              "showtime": "14h00",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Certains l’aiment chaud Summer of Love"
+            },
+            {
+              "title": "Taxi Driver",
+              "showtime": "14h30",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Taxi Driver Cannes Fever"
+            },
+            {
+              "title": "Les Demoiselles de Rochefort",
+              "showtime": "16h15",
+              "duration": null,
+              "director": null,
+              "category": null,
+              "additional_info": "Les Demoiselles de Rochefort"
+            },
+            {
+              "title": "No Country for Old Men Summer of Love",
+              "showtime": "16h40",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "No Country for Old Men Cannes Fever Summer of Love"
+            },
+            {
+              "title": "2001 : L’Odyssée de l’espace",
+              "showtime": "19h00",
+              "duration": null,
+              "director": "Stanley Kubrick",
+              "category": null,
+              "additional_info": "2001 : L’Odyssée de l’espace Stanley Kubrick"
+            },
+            {
+              "title": "La Balade sauvage",
+              "showtime": "18h30",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "La Balade sauvage Summer of Love"
+            },
+            {
+              "title": "Old Boy",
+              "showtime": "21h40",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Old Boy Cannes Fever"
+            },
+            {
+              "title": "Théorème",
+              "showtime": "20h15",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Théorème Summer of Love"
+            },
+            {
+              "title": "Spring Breakers",
+              "showtime": "22h05",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Spring Breakers Summer of Love"
+            }
+          ]
+        }
+      }
+    },
+    "2025-07-31": {
+      "date": "2025-07-31",
+      "day_name": "Thursday",
+      "cinemas": {
+        "Christine": {
+          "name": "Christine",
+          "films": [
+            {
+              "title": "Marie-Antoinette",
+              "showtime": "14h30",
+              "duration": "(35mm)",
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Marie-Antoinette Cannes Fever (35mm)"
+            },
+            {
+              "title": "La Famille Tenenbaum",
+              "showtime": "14h00",
+              "duration": null,
+              "director": "Wes Anderson",
+              "category": null,
+              "additional_info": "La Famille Tenenbaum Wes Anderson"
+            },
+            {
+              "title": "Le Sacrifice",
+              "showtime": "17h00",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Le Sacrifice Cannes Fever"
+            },
+            {
+              "title": "Memories of Murder Toujours à l’affiche",
+              "showtime": "16h00",
+              "duration": null,
+              "director": null,
+              "category": null,
+              "additional_info": "Memories of Murder Toujours à l’affiche"
+            },
+            {
+              "title": "Boule de feu",
+              "showtime": "19h45",
+              "duration": null,
+              "director": null,
+              "category": "SORTIE NATIONALE",
+              "additional_info": "Boule de feu SORTIE NATIONALE"
+            },
+            {
+              "title": "Mulholland Drive",
+              "showtime": "18h30",
+              "duration": null,
+              "director": "David Lynch",
+              "category": null,
+              "additional_info": "Mulholland Drive David Lynch"
+            },
+            {
+              "title": "After Hours",
+              "showtime": "21h50",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "After Hours Cannes Fever"
+            },
+            {
+              "title": "Midsommar",
+              "showtime": "21h10",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Midsommar Summer of Love"
+            }
+          ]
+        },
+        "Ecoles": {
+          "name": "Ecoles",
+          "films": [
+            {
+              "title": "Mississippi Burning Toujours à l’affiche",
+              "showtime": "14h30",
+              "duration": null,
+              "director": null,
+              "category": null,
+              "additional_info": "Mississippi Burning Toujours à l’affiche"
+            },
+            {
+              "title": "L’Avventura",
+              "showtime": "13h30",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "L’Avventura Summer of Love"
+            },
+            {
+              "title": "Only Lovers Left Alive",
+              "showtime": "17h00",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Only Lovers Left Alive Cannes Fever"
+            },
+            {
+              "title": "La Piscine",
+              "showtime": "16h00",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "La Piscine Summer of Love"
+            },
+            {
+              "title": "Orange mécanique",
+              "showtime": "19h20",
+              "duration": null,
+              "director": "Stanley Kubrick",
+              "category": null,
+              "additional_info": "Orange mécanique Stanley Kubrick"
+            },
+            {
+              "title": "Charade",
+              "showtime": "18h10",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Charade Summer of Love"
+            },
+            {
+              "title": "The Swimmer",
+              "showtime": "20h15",
+              "duration": "(35mm)",
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "The Swimmer Summer of Love (35mm)"
+            },
+            {
+              "title": "Usual Suspects",
+              "showtime": "21h50",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Usual Suspects Cannes Fever"
+            },
+            {
+              "title": "How to Have Sex",
+              "showtime": "22h00",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "How to Have Sex Summer of Love"
+            }
+          ]
+        }
+      }
+    },
+    "2025-08-01": {
+      "date": "2025-08-01",
+      "day_name": "Friday",
+      "cinemas": {
+        "Christine": {
+          "name": "Christine",
+          "films": [
+            {
+              "title": "Marie-Antoinette",
+              "showtime": "14h30",
+              "duration": "(35mm)",
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Marie-Antoinette Cannes Fever (35mm)"
+            },
+            {
+              "title": "La Famille Tenenbaum",
+              "showtime": "14h00",
+              "duration": null,
+              "director": "Wes Anderson",
+              "category": null,
+              "additional_info": "La Famille Tenenbaum Wes Anderson"
+            },
+            {
+              "title": "Le Sacrifice",
+              "showtime": "17h00",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Le Sacrifice Cannes Fever"
+            },
+            {
+              "title": "Memories of Murder Toujours à l’affiche",
+              "showtime": "16h00",
+              "duration": null,
+              "director": null,
+              "category": null,
+              "additional_info": "Memories of Murder Toujours à l’affiche"
+            },
+            {
+              "title": "Boule de feu",
+              "showtime": "19h45",
+              "duration": null,
+              "director": null,
+              "category": "SORTIE NATIONALE",
+              "additional_info": "Boule de feu SORTIE NATIONALE"
+            },
+            {
+              "title": "Mulholland Drive",
+              "showtime": "18h30",
+              "duration": null,
+              "director": "David Lynch",
+              "category": null,
+              "additional_info": "Mulholland Drive David Lynch"
+            },
+            {
+              "title": "After Hours",
+              "showtime": "21h50",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "After Hours Cannes Fever"
+            },
+            {
+              "title": "Midsommar",
+              "showtime": "21h10",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Midsommar Summer of Love"
+            }
+          ]
+        },
+        "Ecoles": {
+          "name": "Ecoles",
+          "films": [
+            {
+              "title": "Mississippi Burning Toujours à l’affiche",
+              "showtime": "14h30",
+              "duration": null,
+              "director": null,
+              "category": null,
+              "additional_info": "Mississippi Burning Toujours à l’affiche"
+            },
+            {
+              "title": "L’Avventura",
+              "showtime": "13h30",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "L’Avventura Summer of Love"
+            },
+            {
+              "title": "Only Lovers Left Alive",
+              "showtime": "17h00",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Only Lovers Left Alive Cannes Fever"
+            },
+            {
+              "title": "La Piscine",
+              "showtime": "16h00",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "La Piscine Summer of Love"
+            },
+            {
+              "title": "Orange mécanique",
+              "showtime": "19h20",
+              "duration": null,
+              "director": "Stanley Kubrick",
+              "category": null,
+              "additional_info": "Orange mécanique Stanley Kubrick"
+            },
+            {
+              "title": "Charade",
+              "showtime": "18h10",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Charade Summer of Love"
+            },
+            {
+              "title": "The Swimmer",
+              "showtime": "20h15",
+              "duration": "(35mm)",
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "The Swimmer Summer of Love (35mm)"
+            },
+            {
+              "title": "Usual Suspects",
+              "showtime": "21h50",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Usual Suspects Cannes Fever"
+            },
+            {
+              "title": "How to Have Sex",
+              "showtime": "22h00",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "How to Have Sex Summer of Love"
+            }
+          ]
+        }
+      }
+    },
+    "2025-08-02": {
+      "date": "2025-08-02",
+      "day_name": "Saturday",
+      "cinemas": {
+        "Christine": {
+          "name": "Christine",
+          "films": [
+            {
+              "title": "Boule de feu",
+              "showtime": "13h50",
+              "duration": null,
+              "director": null,
+              "category": "SORTIE NATIONALE",
+              "additional_info": "Boule de feu SORTIE NATIONALE"
+            },
+            {
+              "title": "À bord du Darjeeling Limited",
+              "showtime": "13h30",
+              "duration": null,
+              "director": "Wes Anderson",
+              "category": null,
+              "additional_info": "À bord du Darjeeling Limited Wes Anderson"
+            },
+            {
+              "title": "Pulp Fiction",
+              "showtime": "15h50",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Pulp Fiction Cannes Fever"
+            },
+            {
+              "title": "Quand passent les cigognes",
+              "showtime": "15h15",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Quand passent les cigognes Summer of Love"
+            },
+            {
+              "title": "Thelma et Louise",
+              "showtime": "18h30",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Thelma et Louise Cannes Fever"
+            },
+            {
+              "title": "In the Mood for Love",
+              "showtime": "17h10",
+              "duration": null,
+              "director": "Wong Kar-wai",
+              "category": null,
+              "additional_info": "In the Mood for Love Wong Kar-wai"
+            },
+            {
+              "title": "Les Huit Salopards",
+              "showtime": "20h50",
+              "duration": null,
+              "director": null,
+              "category": "Far West",
+              "additional_info": "Les Huit Salopards Far West"
+            },
+            {
+              "title": "Midsommar",
+              "showtime": "19h00",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Midsommar Summer of Love"
+            },
+            {
+              "title": "Blue Velvet",
+              "showtime": "21h40",
+              "duration": null,
+              "director": "David Lynch",
+              "category": null,
+              "additional_info": "Blue Velvet David Lynch"
+            }
+          ]
+        },
+        "Ecoles": {
+          "name": "Ecoles",
+          "films": [
+            {
+              "title": "Un condamné à mort s’est échappé",
+              "showtime": "14h00",
+              "duration": null,
+              "director": null,
+              "category": null,
+              "additional_info": "Un condamné à mort s’est échappé"
+            },
+            {
+              "title": "Drôle de frimousse",
+              "showtime": "13h35",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Drôle de frimousse Summer of Love"
+            },
+            {
+              "title": "Vittoria",
+              "showtime": "15h50",
+              "duration": null,
+              "director": null,
+              "category": "SORTIE NATIONALE",
+              "additional_info": "Vittoria SORTIE NATIONALE"
+            },
+            {
+              "title": "La Balade sauvage",
+              "showtime": "15h30",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "La Balade sauvage Summer of Love"
+            },
+            {
+              "title": "Call Me By Your Name",
+              "showtime": "17h15",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Call Me By Your Name Summer of Love"
+            },
+            {
+              "title": "Paprika Toujours à l’affiche",
+              "showtime": "17h30",
+              "duration": null,
+              "director": null,
+              "category": null,
+              "additional_info": "Paprika Toujours à l’affiche"
+            },
+            {
+              "title": "Virgin Suicides",
+              "showtime": "19h40",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Virgin Suicides Summer of Love"
+            },
+            {
+              "title": "La Nuit du chasseur",
+              "showtime": "19h15",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "La Nuit du chasseur Cannes Fever"
+            },
+            {
+              "title": "Showgirls",
+              "showtime": "21h30",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Showgirls Summer of Love"
+            },
+            {
+              "title": "Eyes Wide Shut",
+              "showtime": "21h00",
+              "duration": null,
+              "director": "Stanley Kubrick",
+              "category": null,
+              "additional_info": "Eyes Wide Shut Stanley Kubrick"
+            }
+          ]
+        }
+      }
+    },
+    "2025-08-03": {
+      "date": "2025-08-03",
+      "day_name": "Sunday",
+      "cinemas": {
+        "Christine": {
+          "name": "Christine",
+          "films": [
+            {
+              "title": "Les Parapluies de Cherbourg",
+              "showtime": "13h30",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Les Parapluies de Cherbourg Cannes Fever"
+            },
+            {
+              "title": "Citizen Kane Toujours à l’affiche",
+              "showtime": "14h00",
+              "duration": null,
+              "director": null,
+              "category": null,
+              "additional_info": "Citizen Kane Toujours à l’affiche"
+            },
+            {
+              "title": "Stella Dallas",
+              "showtime": "15h15",
+              "duration": null,
+              "director": null,
+              "category": "SORTIE NATIONALE",
+              "additional_info": "Stella Dallas SORTIE NATIONALE"
+            },
+            {
+              "title": "Le Mépris",
+              "showtime": "16h10",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Le Mépris Summer of Love"
+            },
+            {
+              "title": "Drive",
+              "showtime": "17h10",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Drive Cannes Fever"
+            },
+            {
+              "title": "Rushmore",
+              "showtime": "18h05",
+              "duration": null,
+              "director": "Wes Anderson",
+              "category": null,
+              "additional_info": "Rushmore Wes Anderson"
+            },
+            {
+              "title": "Mademoiselle",
+              "showtime": "19h00",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Mademoiselle Cannes Fever"
+            },
+            {
+              "title": "Blue Velvet",
+              "showtime": "19h50",
+              "duration": null,
+              "director": "David Lynch",
+              "category": null,
+              "additional_info": "Blue Velvet David Lynch"
+            },
+            {
+              "title": "Le Silence des agneaux",
+              "showtime": "21h45",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Le Silence des agneaux Cannes Fever"
+            },
+            {
+              "title": "Nos années sauvages",
+              "showtime": "22h00",
+              "duration": null,
+              "director": "Wong Kar-wai",
+              "category": null,
+              "additional_info": "Nos années sauvages Wong Kar-wai"
+            }
+          ]
+        },
+        "Ecoles": {
+          "name": "Ecoles",
+          "films": [
+            {
+              "title": "Certains l’aiment chaud",
+              "showtime": "14h00",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Certains l’aiment chaud Summer of Love"
+            },
+            {
+              "title": "Taxi Driver",
+              "showtime": "14h30",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Taxi Driver Cannes Fever"
+            },
+            {
+              "title": "Les Demoiselles de Rochefort",
+              "showtime": "16h15",
+              "duration": null,
+              "director": null,
+              "category": null,
+              "additional_info": "Les Demoiselles de Rochefort"
+            },
+            {
+              "title": "No Country for Old Men Summer of Love",
+              "showtime": "16h40",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "No Country for Old Men Cannes Fever Summer of Love"
+            },
+            {
+              "title": "2001 : L’Odyssée de l’espace",
+              "showtime": "19h00",
+              "duration": null,
+              "director": "Stanley Kubrick",
+              "category": null,
+              "additional_info": "2001 : L’Odyssée de l’espace Stanley Kubrick"
+            },
+            {
+              "title": "La Balade sauvage",
+              "showtime": "18h30",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "La Balade sauvage Summer of Love"
+            },
+            {
+              "title": "Old Boy",
+              "showtime": "21h40",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Old Boy Cannes Fever"
+            },
+            {
+              "title": "Théorème",
+              "showtime": "20h15",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Théorème Summer of Love"
+            },
+            {
+              "title": "Spring Breakers",
+              "showtime": "22h05",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Spring Breakers Summer of Love"
+            }
+          ]
+        }
+      }
+    },
+    "2025-08-04": {
+      "date": "2025-08-04",
+      "day_name": "Monday",
+      "cinemas": {
+        "Christine": {
+          "name": "Christine",
+          "films": [
+            {
+              "title": "Chungking Express",
+              "showtime": "13h30",
+              "duration": null,
+              "director": "Wong Kar-wai",
+              "category": null,
+              "additional_info": "Chungking Express Wong Kar-wai"
+            },
+            {
+              "title": "Boule de feu",
+              "showtime": "14h00",
+              "duration": null,
+              "director": null,
+              "category": "SORTIE NATIONALE",
+              "additional_info": "Boule de feu SORTIE NATIONALE"
+            },
+            {
+              "title": "Her Toujours à l’affiche",
+              "showtime": "15h20",
+              "duration": null,
+              "director": null,
+              "category": null,
+              "additional_info": "Her Toujours à l’affiche"
+            },
+            {
+              "title": "La Dernière Piste",
+              "showtime": "16h00",
+              "duration": null,
+              "director": null,
+              "category": "Far West",
+              "additional_info": "La Dernière Piste Far West"
+            },
+            {
+              "title": "American Graffiti",
+              "showtime": "17h40",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "American Graffiti Summer of Love"
+            },
+            {
+              "title": "Mon nom est Personne",
+              "showtime": "17h55",
+              "duration": null,
+              "director": null,
+              "category": "Far West",
+              "additional_info": "Mon nom est Personne Far West"
+            },
+            {
+              "title": "The Grand Budapest Hotel",
+              "showtime": "19h40",
+              "duration": null,
+              "director": "Wes Anderson",
+              "category": null,
+              "additional_info": "The Grand Budapest Hotel Wes Anderson"
+            },
+            {
+              "title": "La Porte du paradis",
+              "showtime": "20h00",
+              "duration": null,
+              "director": null,
+              "category": "Far West",
+              "additional_info": "La Porte du paradis Far West"
+            },
+            {
+              "title": "Memories of Murder Toujours à l’affiche",
+              "showtime": "21h30",
+              "duration": null,
+              "director": null,
+              "category": null,
+              "additional_info": "Memories of Murder Toujours à l’affiche"
+            }
+          ]
+        },
+        "Ecoles": {
+          "name": "Ecoles",
+          "films": [
+            {
+              "title": "Cinema Paradiso",
+              "showtime": "13h50",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Cinema Paradiso Cannes Fever"
+            },
+            {
+              "title": "Vacances",
+              "showtime": "14h00",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Vacances Summer of Love"
+            },
+            {
+              "title": "Vittoria",
+              "showtime": "16h05",
+              "duration": null,
+              "director": null,
+              "category": "SORTIE NATIONALE",
+              "additional_info": "Vittoria SORTIE NATIONALE"
+            },
+            {
+              "title": "Théorème",
+              "showtime": "16h00",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Théorème Summer of Love"
+            },
+            {
+              "title": "Blow Up",
+              "showtime": "17h35",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Blow Up Cannes Fever"
+            },
+            {
+              "title": "Le Lauréat",
+              "showtime": "18h00",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Le Lauréat Summer of Love"
+            },
+            {
+              "title": "Old Boy",
+              "showtime": "19h35",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Old Boy Cannes Fever"
+            },
+            {
+              "title": "Annie Hall",
+              "showtime": "20h00",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Annie Hall Summer of Love"
+            },
+            {
+              "title": "Taxi Driver",
+              "showtime": "21h45",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Taxi Driver Cannes Fever"
+            },
+            {
+              "title": "Kramer Contre Kramer",
+              "showtime": "21h50",
+              "duration": null,
+              "director": null,
+              "category": null,
+              "additional_info": "Kramer Contre Kramer"
+            }
+          ]
+        }
+      }
+    },
+    "2025-08-05": {
+      "date": "2025-08-05",
+      "day_name": "Tuesday",
+      "cinemas": {
+        "Christine": {
+          "name": "Christine",
+          "films": [
+            {
+              "title": "Stella Dallas",
+              "showtime": "13h30",
+              "duration": null,
+              "director": null,
+              "category": "SORTIE NATIONALE",
+              "additional_info": "Stella Dallas SORTIE NATIONALE"
+            },
+            {
+              "title": "Moonrise Kingdom",
+              "showtime": "13h40",
+              "duration": null,
+              "director": "Wes Anderson",
+              "category": null,
+              "additional_info": "Moonrise Kingdom Wes Anderson"
+            },
+            {
+              "title": "Le Trésor de la Sierra Madre",
+              "showtime": "15h25",
+              "duration": null,
+              "director": null,
+              "category": "Far West",
+              "additional_info": "Le Trésor de la Sierra Madre Far West"
+            },
+            {
+              "title": "Midsommar",
+              "showtime": "15h25",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Midsommar Summer of Love"
+            },
+            {
+              "title": "La Prisonnière du désert",
+              "showtime": "17h40",
+              "duration": null,
+              "director": null,
+              "category": "Far West",
+              "additional_info": "La Prisonnière du désert Far West"
+            },
+            {
+              "title": "In the Mood for Love",
+              "showtime": "18h05",
+              "duration": null,
+              "director": "Wong Kar-wai",
+              "category": null,
+              "additional_info": "In the Mood for Love Wong Kar-wai"
+            },
+            {
+              "title": "John McCabe",
+              "showtime": "19h50",
+              "duration": null,
+              "director": null,
+              "category": "Far West",
+              "additional_info": "John McCabe Far West"
+            },
+            {
+              "title": "The Thing Toujours à l’affiche",
+              "showtime": "19h55",
+              "duration": null,
+              "director": null,
+              "category": null,
+              "additional_info": "The Thing Toujours à l’affiche"
+            },
+            {
+              "title": "Drive",
+              "showtime": "22h00",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Drive Cannes Fever"
+            },
+            {
+              "title": "Requiem for a Dream Toujours à l’affiche",
+              "showtime": "21h55",
+              "duration": null,
+              "director": null,
+              "category": null,
+              "additional_info": "Requiem for a Dream Toujours à l’affiche"
+            }
+          ]
+        },
+        "Ecoles": {
+          "name": "Ecoles",
+          "films": [
+            {
+              "title": "2001: L’Odyssée de l’espace",
+              "showtime": "13h30",
+              "duration": null,
+              "director": "Stanley Kubrick",
+              "category": null,
+              "additional_info": "2001: L’Odyssée de l’espace Stanley Kubrick"
+            },
+            {
+              "title": "Paprika Toujours à l’affiche",
+              "showtime": "16h05",
+              "duration": null,
+              "director": null,
+              "category": null,
+              "additional_info": "Paprika Toujours à l’affiche"
+            },
+            {
+              "title": "Les Roseaux Sauvages",
+              "showtime": "14h00",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Les Roseaux Sauvages Summer of Love"
+            },
+            {
+              "title": "No Country for Old Men",
+              "showtime": "17h45",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "No Country for Old Men Cannes Fever"
+            },
+            {
+              "title": "Certains l’aiment chaud",
+              "showtime": "16h05",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "Certains l’aiment chaud Summer of Love"
+            },
+            {
+              "title": "Vittoria",
+              "showtime": "20h00",
+              "duration": null,
+              "director": null,
+              "category": "SORTIE NATIONALE",
+              "additional_info": "Vittoria SORTIE NATIONALE"
+            },
+            {
+              "title": "À bout de course",
+              "showtime": "18h20",
+              "duration": null,
+              "director": null,
+              "category": "Summer of Love",
+              "additional_info": "À bout de course Summer of Love"
+            },
+            {
+              "title": "Melancholia",
+              "showtime": "21h30",
+              "duration": null,
+              "director": null,
+              "category": "Cannes Fever",
+              "additional_info": "Melancholia Cannes Fever"
+            },
+            {
+              "title": "Magnolia Paul Thomas Anderson",
+              "showtime": "20h30",
+              "duration": "(35mm)",
+              "director": null,
+              "category": null,
+              "additional_info": "Magnolia Paul Thomas Anderson (35mm)"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
