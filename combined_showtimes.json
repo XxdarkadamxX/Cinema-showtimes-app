@@ -1,0 +1,3802 @@
+{
+  "metadata": {
+    "created_at": "2025-08-02T02:48:28.242190",
+    "total_records": 429,
+    "cinemas": [
+      "Christine",
+      "Ecoles",
+      "Escurial",
+      "L'Arlequin",
+      "Majestic Bastille",
+      "Majestic Passy",
+      "Reflet Medicis",
+      "UGC Ciné Cité Bercy",
+      "UGC Ciné Cité Les Halles",
+      "UGC Ciné Cité Maillot",
+      "UGC Ciné Cité Paris 19",
+      "UGC Danton",
+      "UGC Gobelins",
+      "UGC Lyon Bastille",
+      "UGC Montparnasse"
+    ],
+    "date_range": {
+      "start": "2025-07-30",
+      "end": "2025-08-05"
+    }
+  },
+  "records": [
+    {
+      "movie": "Blue Velvet",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h50"
+      ]
+    },
+    {
+      "movie": "Citizen Kane Toujours à l’affiche",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "14h00"
+      ]
+    },
+    {
+      "movie": "Drive",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "17h10"
+      ]
+    },
+    {
+      "movie": "Le Mépris",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "16h10"
+      ]
+    },
+    {
+      "movie": "Le Silence des agneaux",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h45"
+      ]
+    },
+    {
+      "movie": "Les Parapluies de Cherbourg",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "13h30"
+      ]
+    },
+    {
+      "movie": "Mademoiselle",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h00"
+      ]
+    },
+    {
+      "movie": "Nos années sauvages",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "22h00"
+      ]
+    },
+    {
+      "movie": "Rushmore",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "18h05"
+      ]
+    },
+    {
+      "movie": "Stella Dallas",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "15h15"
+      ]
+    },
+    {
+      "movie": "2001 : L’Odyssée de l’espace",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h00"
+      ]
+    },
+    {
+      "movie": "Certains l’aiment chaud",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "14h00"
+      ]
+    },
+    {
+      "movie": "La Balade sauvage",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "18h30"
+      ]
+    },
+    {
+      "movie": "Les Demoiselles de Rochefort",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "16h15"
+      ]
+    },
+    {
+      "movie": "No Country for Old Men Summer of Love",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "16h40"
+      ]
+    },
+    {
+      "movie": "Old Boy",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h40"
+      ]
+    },
+    {
+      "movie": "Spring Breakers",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "22h05"
+      ]
+    },
+    {
+      "movie": "Taxi Driver",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "14h30"
+      ]
+    },
+    {
+      "movie": "Théorème",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-30",
+      "nb_showings": 1,
+      "showtimes": [
+        "20h15"
+      ]
+    },
+    {
+      "movie": "After Hours",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h50"
+      ]
+    },
+    {
+      "movie": "Boule de feu",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h45"
+      ]
+    },
+    {
+      "movie": "La Famille Tenenbaum",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "14h00"
+      ]
+    },
+    {
+      "movie": "Le Sacrifice",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "17h00"
+      ]
+    },
+    {
+      "movie": "Marie-Antoinette",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "14h30"
+      ]
+    },
+    {
+      "movie": "Memories of Murder Toujours à l’affiche",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "16h00"
+      ]
+    },
+    {
+      "movie": "Midsommar",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h10"
+      ]
+    },
+    {
+      "movie": "Mulholland Drive",
+      "cinema": "Christine",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "18h30"
+      ]
+    },
+    {
+      "movie": "Charade",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "18h10"
+      ]
+    },
+    {
+      "movie": "How to Have Sex",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "22h00"
+      ]
+    },
+    {
+      "movie": "La Piscine",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "16h00"
+      ]
+    },
+    {
+      "movie": "L’Avventura",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "13h30"
+      ]
+    },
+    {
+      "movie": "Mississippi Burning Toujours à l’affiche",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "14h30"
+      ]
+    },
+    {
+      "movie": "Only Lovers Left Alive",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "17h00"
+      ]
+    },
+    {
+      "movie": "Orange mécanique",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h20"
+      ]
+    },
+    {
+      "movie": "The Swimmer",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "20h15"
+      ]
+    },
+    {
+      "movie": "Usual Suspects",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h50"
+      ]
+    },
+    {
+      "movie": "Aux jours qui viennent",
+      "cinema": "Escurial",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 3,
+      "showtimes": [
+        "16:30",
+        "18:30",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Mahjong",
+      "cinema": "Escurial",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "14:00"
+      ]
+    },
+    {
+      "movie": "Perla",
+      "cinema": "Escurial",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 4,
+      "showtimes": [
+        "14:00",
+        "16:10",
+        "18:20",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Amour",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:40",
+        "17:50"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Désir",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 2,
+      "showtimes": [
+        "11:00",
+        "18:10"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Rêves",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:40",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "Ma Mère, Dieu et Sylvie Vartan",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "20:00"
+      ]
+    },
+    {
+      "movie": "The Things You Kill",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 4,
+      "showtimes": [
+        "13:45",
+        "16:00",
+        "18:20",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "Eternal",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 5,
+      "showtimes": [
+        "13:20",
+        "15:20",
+        "17:20",
+        "19:20",
+        "21:30"
+      ]
+    },
+    {
+      "movie": "Jardin d'été (The Friends)",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "15:20"
+      ]
+    },
+    {
+      "movie": "L'Aventura",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "Les Filles désir",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 2,
+      "showtimes": [
+        "19:45",
+        "21:40"
+      ]
+    },
+    {
+      "movie": "Pooja, Sir",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 2,
+      "showtimes": [
+        "13:10",
+        "17:30"
+      ]
+    },
+    {
+      "movie": "Summer Wars",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "13 jours, 13 nuits",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "17:15"
+      ]
+    },
+    {
+      "movie": "Eddington",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 2,
+      "showtimes": [
+        "13:40",
+        "19:15"
+      ]
+    },
+    {
+      "movie": "La Venue de l'avenir",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "16:40"
+      ]
+    },
+    {
+      "movie": "Les Bad Guys 2",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 4,
+      "showtimes": [
+        "13:30",
+        "15:40",
+        "17:50",
+        "20:00"
+      ]
+    },
+    {
+      "movie": "Superman",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 2,
+      "showtimes": [
+        "14:30",
+        "19:40"
+      ]
+    },
+    {
+      "movie": "Amour 65",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:30"
+      ]
+    },
+    {
+      "movie": "Confusion chez Confucius",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "13:15"
+      ]
+    },
+    {
+      "movie": "LE QUARTIER DU CORBEAU",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "14:00"
+      ]
+    },
+    {
+      "movie": "La Dame de Constantinople",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 2,
+      "showtimes": [
+        "16:15",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Le Jour de Maria",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "13:45"
+      ]
+    },
+    {
+      "movie": "Mahjong",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:45",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "Peut-être demain",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:00"
+      ]
+    },
+    {
+      "movie": "Ryuichi Sakamoto Opus",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 2,
+      "showtimes": [
+        "16:00",
+        "20:50"
+      ]
+    },
+    {
+      "movie": "Taipei Story",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:15"
+      ]
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 10,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 8,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 10,
+      "showtimes": []
+    },
+    {
+      "movie": "ETERNAL",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 7,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 8,
+      "showtimes": []
+    },
+    {
+      "movie": "PERLA",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Maillot",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Maillot",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Paris 19",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Paris 19",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Danton",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Lyon Bastille",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Lyon Bastille",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Montparnasse",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Montparnasse",
+      "showtime_day": "2025-07-31",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "After Hours",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h50"
+      ]
+    },
+    {
+      "movie": "Boule de feu",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h45"
+      ]
+    },
+    {
+      "movie": "La Famille Tenenbaum",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "14h00"
+      ]
+    },
+    {
+      "movie": "Le Sacrifice",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "17h00"
+      ]
+    },
+    {
+      "movie": "Marie-Antoinette",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "14h30"
+      ]
+    },
+    {
+      "movie": "Memories of Murder Toujours à l’affiche",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "16h00"
+      ]
+    },
+    {
+      "movie": "Midsommar",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h10"
+      ]
+    },
+    {
+      "movie": "Mulholland Drive",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "18h30"
+      ]
+    },
+    {
+      "movie": "Charade",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "18h10"
+      ]
+    },
+    {
+      "movie": "How to Have Sex",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "22h00"
+      ]
+    },
+    {
+      "movie": "La Piscine",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "16h00"
+      ]
+    },
+    {
+      "movie": "L’Avventura",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "13h30"
+      ]
+    },
+    {
+      "movie": "Mississippi Burning Toujours à l’affiche",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "14h30"
+      ]
+    },
+    {
+      "movie": "Only Lovers Left Alive",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "17h00"
+      ]
+    },
+    {
+      "movie": "Orange mécanique",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h20"
+      ]
+    },
+    {
+      "movie": "The Swimmer",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "20h15"
+      ]
+    },
+    {
+      "movie": "Usual Suspects",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h50"
+      ]
+    },
+    {
+      "movie": "Aux jours qui viennent",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 3,
+      "showtimes": [
+        "16:30",
+        "18:30",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Confusion chez Confucius",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "14:00"
+      ]
+    },
+    {
+      "movie": "Perla",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 4,
+      "showtimes": [
+        "14:00",
+        "16:10",
+        "18:20",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Jardin d'été (The Friends)",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Amour",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:40",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Désir",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:40",
+        "18:10"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Rêves",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 2,
+      "showtimes": [
+        "18:10",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "The Things You Kill",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 4,
+      "showtimes": [
+        "13:45",
+        "16:00",
+        "18:20",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "Eternal",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 5,
+      "showtimes": [
+        "13:20",
+        "15:20",
+        "17:20",
+        "19:20",
+        "21:30"
+      ]
+    },
+    {
+      "movie": "Jardin d'été (The Friends)",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "15:20"
+      ]
+    },
+    {
+      "movie": "L'Aventura",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "Les Filles désir",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 2,
+      "showtimes": [
+        "19:45",
+        "21:40"
+      ]
+    },
+    {
+      "movie": "Les enfants loups, Ame et Yuki",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "Pooja, Sir",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 2,
+      "showtimes": [
+        "13:10",
+        "17:30"
+      ]
+    },
+    {
+      "movie": "13 jours, 13 nuits",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "17:15"
+      ]
+    },
+    {
+      "movie": "Eddington",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 2,
+      "showtimes": [
+        "13:40",
+        "19:15"
+      ]
+    },
+    {
+      "movie": "La Venue de l'avenir",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "16:40"
+      ]
+    },
+    {
+      "movie": "Les Bad Guys 2",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 4,
+      "showtimes": [
+        "13:30",
+        "15:40",
+        "17:50",
+        "20:00"
+      ]
+    },
+    {
+      "movie": "Superman",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 2,
+      "showtimes": [
+        "14:30",
+        "19:40"
+      ]
+    },
+    {
+      "movie": "Confusion chez Confucius",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:45",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "L'Homme de Majorque",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "13:40"
+      ]
+    },
+    {
+      "movie": "La Dame de Constantinople",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 2,
+      "showtimes": [
+        "16:15",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Le Jour de Maria",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "13:45"
+      ]
+    },
+    {
+      "movie": "Mahjong",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "13:15"
+      ]
+    },
+    {
+      "movie": "Peut-être demain",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:00"
+      ]
+    },
+    {
+      "movie": "Ryuichi Sakamoto Opus",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 2,
+      "showtimes": [
+        "16:00",
+        "20:50"
+      ]
+    },
+    {
+      "movie": "Taipei Story",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:15"
+      ]
+    },
+    {
+      "movie": "Un flic sur le toit",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:10"
+      ]
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 10,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 8,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 10,
+      "showtimes": []
+    },
+    {
+      "movie": "ETERNAL",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 7,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 8,
+      "showtimes": []
+    },
+    {
+      "movie": "PERLA",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Maillot",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Maillot",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Paris 19",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Paris 19",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Danton",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Lyon Bastille",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Lyon Bastille",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Montparnasse",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Montparnasse",
+      "showtime_day": "2025-08-01",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "Blue Velvet",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h40"
+      ]
+    },
+    {
+      "movie": "Boule de feu",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "13h50"
+      ]
+    },
+    {
+      "movie": "In the Mood for Love",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "17h10"
+      ]
+    },
+    {
+      "movie": "Les Huit Salopards",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "20h50"
+      ]
+    },
+    {
+      "movie": "Midsommar",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h00"
+      ]
+    },
+    {
+      "movie": "Pulp Fiction",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "15h50"
+      ]
+    },
+    {
+      "movie": "Quand passent les cigognes",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "15h15"
+      ]
+    },
+    {
+      "movie": "Thelma et Louise",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "18h30"
+      ]
+    },
+    {
+      "movie": "À bord du Darjeeling Limited",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "13h30"
+      ]
+    },
+    {
+      "movie": "Call Me By Your Name",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "17h15"
+      ]
+    },
+    {
+      "movie": "Drôle de frimousse",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "13h35"
+      ]
+    },
+    {
+      "movie": "Eyes Wide Shut",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h00"
+      ]
+    },
+    {
+      "movie": "La Balade sauvage",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "15h30"
+      ]
+    },
+    {
+      "movie": "La Nuit du chasseur",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h15"
+      ]
+    },
+    {
+      "movie": "Paprika Toujours à l’affiche",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "17h30"
+      ]
+    },
+    {
+      "movie": "Showgirls",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h30"
+      ]
+    },
+    {
+      "movie": "Un condamné à mort s’est échappé",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "14h00"
+      ]
+    },
+    {
+      "movie": "Virgin Suicides",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h40"
+      ]
+    },
+    {
+      "movie": "Vittoria",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "15h50"
+      ]
+    },
+    {
+      "movie": "Aux jours qui viennent",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 3,
+      "showtimes": [
+        "16:30",
+        "18:30",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Des Feux dans la Plaine",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:30"
+      ]
+    },
+    {
+      "movie": "Jardin d'été (The Friends)",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:30"
+      ]
+    },
+    {
+      "movie": "Mahjong",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "14:00"
+      ]
+    },
+    {
+      "movie": "Perla",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 4,
+      "showtimes": [
+        "14:00",
+        "16:10",
+        "18:20",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Jardin d'été (The Friends)",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Amour",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:40",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Désir",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:40",
+        "18:10"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Rêves",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 2,
+      "showtimes": [
+        "18:10",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "The Things You Kill",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 4,
+      "showtimes": [
+        "13:45",
+        "16:00",
+        "18:20",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "Eternal",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 5,
+      "showtimes": [
+        "13:20",
+        "15:20",
+        "17:20",
+        "19:20",
+        "21:30"
+      ]
+    },
+    {
+      "movie": "Jardin d'été (The Friends)",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "15:20"
+      ]
+    },
+    {
+      "movie": "L'Homme de la rue",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "Les Filles désir",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 2,
+      "showtimes": [
+        "19:45",
+        "21:40"
+      ]
+    },
+    {
+      "movie": "Mon ami robot",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "10:00"
+      ]
+    },
+    {
+      "movie": "Pooja, Sir",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 2,
+      "showtimes": [
+        "13:10",
+        "17:30"
+      ]
+    },
+    {
+      "movie": "13 jours, 13 nuits",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "17:15"
+      ]
+    },
+    {
+      "movie": "Buffalo Kids",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "Eddington",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 2,
+      "showtimes": [
+        "13:40",
+        "19:15"
+      ]
+    },
+    {
+      "movie": "La Venue de l'avenir",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 2,
+      "showtimes": [
+        "11:00",
+        "16:40"
+      ]
+    },
+    {
+      "movie": "Les Bad Guys 2",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 4,
+      "showtimes": [
+        "13:30",
+        "15:40",
+        "17:50",
+        "20:00"
+      ]
+    },
+    {
+      "movie": "Ponyo sur la falaise",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "Superman",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 2,
+      "showtimes": [
+        "14:30",
+        "19:40"
+      ]
+    },
+    {
+      "movie": "Confusion chez Confucius",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "13:15"
+      ]
+    },
+    {
+      "movie": "Joe Hill",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:30"
+      ]
+    },
+    {
+      "movie": "La Dame de Constantinople",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 2,
+      "showtimes": [
+        "16:15",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Le Jour de Maria",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "13:45"
+      ]
+    },
+    {
+      "movie": "Les Chevaux de feu",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "14:00"
+      ]
+    },
+    {
+      "movie": "Mahjong",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:45",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "Peut-être demain",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:00"
+      ]
+    },
+    {
+      "movie": "Ryuichi Sakamoto Opus",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 2,
+      "showtimes": [
+        "16:00",
+        "20:50"
+      ]
+    },
+    {
+      "movie": "Taipei Story",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:15"
+      ]
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 10,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 8,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 10,
+      "showtimes": []
+    },
+    {
+      "movie": "ETERNAL",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 7,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 8,
+      "showtimes": []
+    },
+    {
+      "movie": "PERLA",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Maillot",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Maillot",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Paris 19",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Paris 19",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Danton",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Lyon Bastille",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Lyon Bastille",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Montparnasse",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Montparnasse",
+      "showtime_day": "2025-08-02",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "Blue Velvet",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h50"
+      ]
+    },
+    {
+      "movie": "Citizen Kane Toujours à l’affiche",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "14h00"
+      ]
+    },
+    {
+      "movie": "Drive",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "17h10"
+      ]
+    },
+    {
+      "movie": "Le Mépris",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "16h10"
+      ]
+    },
+    {
+      "movie": "Le Silence des agneaux",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h45"
+      ]
+    },
+    {
+      "movie": "Les Parapluies de Cherbourg",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "13h30"
+      ]
+    },
+    {
+      "movie": "Mademoiselle",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h00"
+      ]
+    },
+    {
+      "movie": "Nos années sauvages",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "22h00"
+      ]
+    },
+    {
+      "movie": "Rushmore",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "18h05"
+      ]
+    },
+    {
+      "movie": "Stella Dallas",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "15h15"
+      ]
+    },
+    {
+      "movie": "2001 : L’Odyssée de l’espace",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h00"
+      ]
+    },
+    {
+      "movie": "Certains l’aiment chaud",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "14h00"
+      ]
+    },
+    {
+      "movie": "La Balade sauvage",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "18h30"
+      ]
+    },
+    {
+      "movie": "Les Demoiselles de Rochefort",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "16h15"
+      ]
+    },
+    {
+      "movie": "No Country for Old Men Summer of Love",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "16h40"
+      ]
+    },
+    {
+      "movie": "Old Boy",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h40"
+      ]
+    },
+    {
+      "movie": "Spring Breakers",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "22h05"
+      ]
+    },
+    {
+      "movie": "Taxi Driver",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "14h30"
+      ]
+    },
+    {
+      "movie": "Théorème",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "20h15"
+      ]
+    },
+    {
+      "movie": "Aux jours qui viennent",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 3,
+      "showtimes": [
+        "16:30",
+        "18:30",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Confusion chez Confucius",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "14:00"
+      ]
+    },
+    {
+      "movie": "Des Feux dans la Plaine",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:30"
+      ]
+    },
+    {
+      "movie": "Mon ami robot",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "Perla",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 4,
+      "showtimes": [
+        "14:00",
+        "16:10",
+        "18:20",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Jardin d'été (The Friends)",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Amour",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:40",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Désir",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:40",
+        "18:10"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Rêves",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 2,
+      "showtimes": [
+        "18:10",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "The Things You Kill",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 4,
+      "showtimes": [
+        "13:45",
+        "16:00",
+        "18:20",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "Boule de feu",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "Eternal",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 5,
+      "showtimes": [
+        "13:20",
+        "15:20",
+        "17:20",
+        "19:20",
+        "21:30"
+      ]
+    },
+    {
+      "movie": "Jardin d'été (The Friends)",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "15:20"
+      ]
+    },
+    {
+      "movie": "La Traversée du temps",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "Les Filles désir",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 2,
+      "showtimes": [
+        "19:45",
+        "21:40"
+      ]
+    },
+    {
+      "movie": "Pooja, Sir",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 2,
+      "showtimes": [
+        "13:10",
+        "17:30"
+      ]
+    },
+    {
+      "movie": "13 jours, 13 nuits",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "17:15"
+      ]
+    },
+    {
+      "movie": "Buffalo Kids",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "Eddington",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 2,
+      "showtimes": [
+        "13:40",
+        "19:15"
+      ]
+    },
+    {
+      "movie": "La Venue de l'avenir",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 2,
+      "showtimes": [
+        "11:00",
+        "16:40"
+      ]
+    },
+    {
+      "movie": "Les Bad Guys 2",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 4,
+      "showtimes": [
+        "13:30",
+        "15:40",
+        "17:50",
+        "20:00"
+      ]
+    },
+    {
+      "movie": "Ponyo sur la falaise",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "Superman",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 2,
+      "showtimes": [
+        "14:30",
+        "19:40"
+      ]
+    },
+    {
+      "movie": "Being Bo Widerberg",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "13:45"
+      ]
+    },
+    {
+      "movie": "Confusion chez Confucius",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:45",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "La Beauté des choses",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:10"
+      ]
+    },
+    {
+      "movie": "La Dame de Constantinople",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 2,
+      "showtimes": [
+        "16:15",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Le Jour de Maria",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "13:45"
+      ]
+    },
+    {
+      "movie": "Mahjong",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "13:15"
+      ]
+    },
+    {
+      "movie": "Peut-être demain",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:00"
+      ]
+    },
+    {
+      "movie": "Ryuichi Sakamoto Opus",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 2,
+      "showtimes": [
+        "16:00",
+        "20:50"
+      ]
+    },
+    {
+      "movie": "Taipei Story",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:15"
+      ]
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 10,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 8,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 10,
+      "showtimes": []
+    },
+    {
+      "movie": "ETERNAL",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 7,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 8,
+      "showtimes": []
+    },
+    {
+      "movie": "PERLA",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Maillot",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Maillot",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Paris 19",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Paris 19",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Danton",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Lyon Bastille",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Lyon Bastille",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Montparnasse",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Montparnasse",
+      "showtime_day": "2025-08-03",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "American Graffiti",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "17h40"
+      ]
+    },
+    {
+      "movie": "Boule de feu",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "14h00"
+      ]
+    },
+    {
+      "movie": "Chungking Express",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "13h30"
+      ]
+    },
+    {
+      "movie": "Her Toujours à l’affiche",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "15h20"
+      ]
+    },
+    {
+      "movie": "La Dernière Piste",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "16h00"
+      ]
+    },
+    {
+      "movie": "La Porte du paradis",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "20h00"
+      ]
+    },
+    {
+      "movie": "Memories of Murder Toujours à l’affiche",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h30"
+      ]
+    },
+    {
+      "movie": "Mon nom est Personne",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "17h55"
+      ]
+    },
+    {
+      "movie": "The Grand Budapest Hotel",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h40"
+      ]
+    },
+    {
+      "movie": "Annie Hall",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "20h00"
+      ]
+    },
+    {
+      "movie": "Blow Up",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "17h35"
+      ]
+    },
+    {
+      "movie": "Cinema Paradiso",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "13h50"
+      ]
+    },
+    {
+      "movie": "Kramer Contre Kramer",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h50"
+      ]
+    },
+    {
+      "movie": "Le Lauréat",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "18h00"
+      ]
+    },
+    {
+      "movie": "Old Boy",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h35"
+      ]
+    },
+    {
+      "movie": "Taxi Driver",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h45"
+      ]
+    },
+    {
+      "movie": "Théorème",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "16h00"
+      ]
+    },
+    {
+      "movie": "Vacances",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "14h00"
+      ]
+    },
+    {
+      "movie": "Vittoria",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "16h05"
+      ]
+    },
+    {
+      "movie": "Aux jours qui viennent",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 3,
+      "showtimes": [
+        "16:30",
+        "18:30",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Jardin d'été (The Friends)",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:30"
+      ]
+    },
+    {
+      "movie": "L'Aventura",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:15"
+      ]
+    },
+    {
+      "movie": "Mahjong",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "14:00"
+      ]
+    },
+    {
+      "movie": "Perla",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 4,
+      "showtimes": [
+        "14:00",
+        "16:10",
+        "18:20",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Jardin d'été (The Friends)",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Amour",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:40",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Désir",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:40",
+        "18:10"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Rêves",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 2,
+      "showtimes": [
+        "18:10",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "The Things You Kill",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 4,
+      "showtimes": [
+        "13:45",
+        "16:00",
+        "18:20",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "Eternal",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 5,
+      "showtimes": [
+        "13:20",
+        "15:20",
+        "17:20",
+        "19:20",
+        "21:30"
+      ]
+    },
+    {
+      "movie": "Jardin d'été (The Friends)",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "15:20"
+      ]
+    },
+    {
+      "movie": "L'Aventura",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "Les Filles désir",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 2,
+      "showtimes": [
+        "19:45",
+        "21:40"
+      ]
+    },
+    {
+      "movie": "Pooja, Sir",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 2,
+      "showtimes": [
+        "13:10",
+        "17:30"
+      ]
+    },
+    {
+      "movie": "Summer Wars",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "13 jours, 13 nuits",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "17:15"
+      ]
+    },
+    {
+      "movie": "Eddington",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 2,
+      "showtimes": [
+        "13:40",
+        "19:15"
+      ]
+    },
+    {
+      "movie": "La Venue de l'avenir",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "16:40"
+      ]
+    },
+    {
+      "movie": "Les Bad Guys 2",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 4,
+      "showtimes": [
+        "13:30",
+        "15:40",
+        "17:50",
+        "20:00"
+      ]
+    },
+    {
+      "movie": "Superman",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 2,
+      "showtimes": [
+        "14:30",
+        "19:40"
+      ]
+    },
+    {
+      "movie": "Confusion chez Confucius",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "13:15"
+      ]
+    },
+    {
+      "movie": "La Dame de Constantinople",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 2,
+      "showtimes": [
+        "16:15",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Le Chemin du serpent",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:10"
+      ]
+    },
+    {
+      "movie": "Le Jour de Maria",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "13:45"
+      ]
+    },
+    {
+      "movie": "Le Péché suédois",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "14:00"
+      ]
+    },
+    {
+      "movie": "Mahjong",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:45",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "Peut-être demain",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:00"
+      ]
+    },
+    {
+      "movie": "Ryuichi Sakamoto Opus",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 2,
+      "showtimes": [
+        "16:00",
+        "20:50"
+      ]
+    },
+    {
+      "movie": "Taipei Story",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:15"
+      ]
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 10,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 8,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 10,
+      "showtimes": []
+    },
+    {
+      "movie": "ETERNAL",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 7,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 8,
+      "showtimes": []
+    },
+    {
+      "movie": "PERLA",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Maillot",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Maillot",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Paris 19",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Paris 19",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Danton",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Lyon Bastille",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Lyon Bastille",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Montparnasse",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Montparnasse",
+      "showtime_day": "2025-08-04",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "Drive",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "22h00"
+      ]
+    },
+    {
+      "movie": "In the Mood for Love",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "18h05"
+      ]
+    },
+    {
+      "movie": "John McCabe",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h50"
+      ]
+    },
+    {
+      "movie": "La Prisonnière du désert",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "17h40"
+      ]
+    },
+    {
+      "movie": "Le Trésor de la Sierra Madre",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "15h25"
+      ]
+    },
+    {
+      "movie": "Midsommar",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "15h25"
+      ]
+    },
+    {
+      "movie": "Moonrise Kingdom",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "13h40"
+      ]
+    },
+    {
+      "movie": "Requiem for a Dream Toujours à l’affiche",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h55"
+      ]
+    },
+    {
+      "movie": "Stella Dallas",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "13h30"
+      ]
+    },
+    {
+      "movie": "The Thing Toujours à l’affiche",
+      "cinema": "Christine",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "19h55"
+      ]
+    },
+    {
+      "movie": "2001: L’Odyssée de l’espace",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "13h30"
+      ]
+    },
+    {
+      "movie": "Certains l’aiment chaud",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "16h05"
+      ]
+    },
+    {
+      "movie": "Les Roseaux Sauvages",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "14h00"
+      ]
+    },
+    {
+      "movie": "Magnolia Paul Thomas Anderson",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "20h30"
+      ]
+    },
+    {
+      "movie": "Melancholia",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "21h30"
+      ]
+    },
+    {
+      "movie": "No Country for Old Men",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "17h45"
+      ]
+    },
+    {
+      "movie": "Paprika Toujours à l’affiche",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "16h05"
+      ]
+    },
+    {
+      "movie": "Vittoria",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "20h00"
+      ]
+    },
+    {
+      "movie": "À bout de course",
+      "cinema": "Ecoles",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "18h20"
+      ]
+    },
+    {
+      "movie": "Aux jours qui viennent",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 3,
+      "showtimes": [
+        "16:30",
+        "18:30",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Confusion chez Confucius",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "14:00"
+      ]
+    },
+    {
+      "movie": "Des Feux dans la Plaine",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:30"
+      ]
+    },
+    {
+      "movie": "L'Aventura",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:15"
+      ]
+    },
+    {
+      "movie": "Perla",
+      "cinema": "Escurial",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 4,
+      "showtimes": [
+        "14:00",
+        "16:10",
+        "18:20",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Jardin d'été (The Friends)",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Amour",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:40",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Désir",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:40",
+        "18:10"
+      ]
+    },
+    {
+      "movie": "La Trilogie d'Oslo / Rêves",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 2,
+      "showtimes": [
+        "18:10",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "The Things You Kill",
+      "cinema": "L'Arlequin",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 4,
+      "showtimes": [
+        "13:45",
+        "16:00",
+        "18:20",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "Eternal",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 5,
+      "showtimes": [
+        "13:20",
+        "15:20",
+        "17:20",
+        "19:20",
+        "21:30"
+      ]
+    },
+    {
+      "movie": "Jardin d'été (The Friends)",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "15:20"
+      ]
+    },
+    {
+      "movie": "L'Aventura",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "Les Filles désir",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 2,
+      "showtimes": [
+        "19:45",
+        "21:40"
+      ]
+    },
+    {
+      "movie": "Les enfants loups, Ame et Yuki",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "11:00"
+      ]
+    },
+    {
+      "movie": "Pooja, Sir",
+      "cinema": "Majestic Bastille",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 2,
+      "showtimes": [
+        "13:10",
+        "17:30"
+      ]
+    },
+    {
+      "movie": "13 jours, 13 nuits",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "17:15"
+      ]
+    },
+    {
+      "movie": "Eddington",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 2,
+      "showtimes": [
+        "16:15",
+        "19:15"
+      ]
+    },
+    {
+      "movie": "Les Bad Guys 2",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 4,
+      "showtimes": [
+        "13:30",
+        "15:40",
+        "17:50",
+        "20:00"
+      ]
+    },
+    {
+      "movie": "Ponyo sur la falaise",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "14:00"
+      ]
+    },
+    {
+      "movie": "Superman",
+      "cinema": "Majestic Passy",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 2,
+      "showtimes": [
+        "14:30",
+        "19:40"
+      ]
+    },
+    {
+      "movie": "Confusion chez Confucius",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 2,
+      "showtimes": [
+        "15:45",
+        "20:40"
+      ]
+    },
+    {
+      "movie": "Joe Hill",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "13:40"
+      ]
+    },
+    {
+      "movie": "La Beauté des choses",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:10"
+      ]
+    },
+    {
+      "movie": "La Dame de Constantinople",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 2,
+      "showtimes": [
+        "16:15",
+        "20:30"
+      ]
+    },
+    {
+      "movie": "Le Jour de Maria",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "13:45"
+      ]
+    },
+    {
+      "movie": "Mahjong",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "13:15"
+      ]
+    },
+    {
+      "movie": "Peut-être demain",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:00"
+      ]
+    },
+    {
+      "movie": "Ryuichi Sakamoto Opus",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 2,
+      "showtimes": [
+        "16:00",
+        "20:50"
+      ]
+    },
+    {
+      "movie": "Taipei Story",
+      "cinema": "Reflet Medicis",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 1,
+      "showtimes": [
+        "18:15"
+      ]
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 10,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Bercy",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 8,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 10,
+      "showtimes": []
+    },
+    {
+      "movie": "ETERNAL",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 7,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 8,
+      "showtimes": []
+    },
+    {
+      "movie": "PERLA",
+      "cinema": "UGC Ciné Cité Les Halles",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Maillot",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Maillot",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Ciné Cité Paris 19",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Ciné Cité Paris 19",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Danton",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "GANGS OF TAIWAN",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 5,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Gobelins",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 6,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Lyon Bastille",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Lyon Bastille",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "DRACULA",
+      "cinema": "UGC Montparnasse",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 4,
+      "showtimes": []
+    },
+    {
+      "movie": "LES BAD GUYS 2",
+      "cinema": "UGC Montparnasse",
+      "showtime_day": "2025-08-05",
+      "nb_showings": 5,
+      "showtimes": []
+    }
+  ]
+}
